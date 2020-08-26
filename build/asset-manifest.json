@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.307f088f.chunk.css",
+    "main.js": "/static/js/main.a562fe60.chunk.js",
+    "main.js.map": "/static/js/main.a562fe60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d204f75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d204f75.js.map",
+    "static/js/2.2935faea.chunk.js": "/static/js/2.2935faea.chunk.js",
+    "static/js/2.2935faea.chunk.js.map": "/static/js/2.2935faea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.901b5f91de6daec1cc1eca5e4b393cf4.js": "/precache-manifest.901b5f91de6daec1cc1eca5e4b393cf4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.307f088f.chunk.css.map": "/static/css/main.307f088f.chunk.css.map",
+    "static/js/2.2935faea.chunk.js.LICENSE.txt": "/static/js/2.2935faea.chunk.js.LICENSE.txt",
+    "static/media/BaseCheese.png": "/static/media/BaseCheese.204b89ab.png",
+    "static/media/Basil.png": "/static/media/Basil.871c221e.png",
+    "static/media/Mushroom.png": "/static/media/Mushroom.4d30186a.png",
+    "static/media/Olive.png": "/static/media/Olive.a40a72f1.png",
+    "static/media/Pineapple.png": "/static/media/Pineapple.a2c5e05b.png",
+    "static/media/PizzaBase.png": "/static/media/PizzaBase.e87ca321.png",
+    "static/media/Tomato.png": "/static/media/Tomato.5cada894.png",
+    "static/media/pizza_logo.png": "/static/media/pizza_logo.5086491e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d204f75.js",
+    "static/js/2.2935faea.chunk.js",
+    "static/css/main.307f088f.chunk.css",
+    "static/js/main.a562fe60.chunk.js"
+  ]
+}
